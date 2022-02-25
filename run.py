@@ -1,4 +1,5 @@
-import qa_server
+from controller import qa_server
+
 
 class APP:
     def __init__(self):
